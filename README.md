@@ -5,6 +5,11 @@
 **Challenge:** Stage 2 — The ERP System Design & Strategy Challenge
 
 ---
+## 🎥 Prototype Demo
+
+https://github.com/panav-22/ael-task/raw/main/demo.mov
+
+---
 
 ## Table of Contents
 
